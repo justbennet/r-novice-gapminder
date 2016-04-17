@@ -56,3 +56,4 @@ Key lessons to take time on:
 Don't worry about being correct or knowing the material back-to-front. Use
 mistakes as teaching moments: the most vital skill you can impart is how to
 debug and recover from unexpected errors.
+
